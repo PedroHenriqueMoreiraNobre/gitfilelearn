@@ -1,4 +1,4 @@
-Trybe Dev
-Somente testes
+Trybe Dev Full Stack
 Aprendendo na Trybe
-Desde 19/06/2002
+Desde 19/06/2002 
+Loading ...
